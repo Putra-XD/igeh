@@ -19,4 +19,4 @@ $ git clone https://github.com/Putra-XD/ige
 
 $ cd ige
 
-$ python2 igeh.py
+$ python2 instadev.py
